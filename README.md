@@ -1,2 +1,2 @@
-# c-21
-trial
+# collisionAlgorithm
+Algorithm to detect collision between two objects
